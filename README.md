@@ -10,6 +10,7 @@ If you build any then a tweet to @heeedt and @biglesp with the hashtag #PounderA
 
 Have fun!
 
+ps. Alkaline batteries are for winners...robots like them better :)
 
 #############################################################################################
 
