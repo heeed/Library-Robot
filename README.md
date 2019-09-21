@@ -17,3 +17,5 @@ ps. Alkaline batteries are for winners...robots like them better :)
 The library robot is based upon https://bigl.es/friday-fun-attiny85-10-robot-challenge/ where @biglesp managed to design and build a simple robot for under £10
 
 robot.pdf has been created with scribus. If you want to adapt edit robot.sla and then export as a PDF file 
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
